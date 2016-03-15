@@ -2,6 +2,8 @@
 /Source/Framework/ZyGames.Framework/bin
 /Source/Framework/ZyGames.Framework.Common/obj
 /Source/Framework/ZyGames.Framework.Common/bin
+/Source/Framework/FrameworkUnitTest/obj
+/Source/Framework/FrameworkUnitTest/bin
 /Source/Middleware/AccountServer/bin
 /Source/Middleware/AccountServer/obj
 /Source/Middleware/GameServer/bin
